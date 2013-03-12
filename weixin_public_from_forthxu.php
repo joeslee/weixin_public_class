@@ -2,6 +2,7 @@
 /**
   * 徐福盛，forthxu.com
   * 微信公众平台类，修改自官方SDK
+  * 2013.01.12 v.001
   */
 
 //define your token
